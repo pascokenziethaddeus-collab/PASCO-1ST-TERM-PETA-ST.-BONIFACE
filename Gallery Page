@@ -1,0 +1,56 @@
+<!Doctype html>
+<html>
+
+<head>
+ <title> Gallery page </title>
+</head>
+
+<body>
+
+<div style="text-align:center; color:purple;">
+<big>
+ <a href="Pasco-1st Term Peta-Home.html"> Home </a>
+ 
+ <a href="Pasco-1st Term Peta-Life Skill.html"> Article </a>
+ 
+ <a href="Pasco-1st Term Peta-Gallery.html"> Gallery </a>
+ </big>
+ <hr>
+ 
+ <h1> <big> <i> Gallery </i> </big> </h1>
+ 
+ <hr>
+ 
+ <h2> Mga larawan <h2>
+
+ <img src="https://img.magnific.com/premium-vector/girl-helping-boy-with-studies-vector-line-art-isolated-white-background_975667-107.jpg" alt="Isang grupo ng mga estudante tumutulong sa isa't-isa sa pag-aaral" height="150" width="150">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRECWdJascwgcorrgabcO72tFqglB9abBoKIzReFFuWvQ&s=10" alt="Isang tao na tumutulong lumakad ang isang mahinang tao" height="150" width="150">
+ <img src="https://publisher-ncreg.s3.us-east-2.amazonaws.com/pb-ncregister/swp/hv9hms/media/20200827170848_5f47d672c2bf74d8ccde9e44jpeg.jpeg" alt="Isang taong pinapagaling ang paa ng kapwang tao niya" height="150" width="150">
+ <img src="https://www.theemerson.org/wp-content/uploads/2021/12/compasionPartner_750px-600x400.jpg" alt="Isang babaeng binibigay ang pangangangailangan ng isang pulubing lalaki" height="150" width="150">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQcIcYJJO_tm1Vkn3fMKixDRpBK4kNdZ32PsMlKvwOusQ&s=10" alt="Isang bata tinutulong ang matatanda upang makalakad" height="150" width="150">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQaPb1yiz1HxvRW8eTg4zKtWtjQI6elZfP7nl4FXCNOjQ&s=10" alt="Isang anak at nanay tumutulong sa isa't-isa upang linisin ang mga pinggan" height="150" width="150">
+ <img src="https://img.magnific.com/premium-photo/men-women-help-each-other-collect-garbage_926199-2751326.jpg?semt=ais_test_b&w=740&q=80" alt="Isang komunidad tumutulong at nagkakaisa upang malinisin ang kapaligiran" height="150" width="150">
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShg0FrELVs_efPaYGFkmocSUa8nad9XjU8bE-9bM_vFg&s=10" alt="Isang taong nagbibigay ng gamit sa kapwang nangangangailangan" height="150" width="150">
+ <img src="https://i.pinimg.com/1200x/8e/08/8b/8e088bb932e7636e1132735514a109b2.jpg" alt="Isang bata tinutulungan ang kanyang lola bumuhat ng mga binili na gamit" height="150" width="150">
+
+<hr>
+
+<h2> Bidyo <h2>
+
+<video controls="controls">
+<source src="https://rr3---sn-npoldne7.googlevideo.com/videoplayback?expire=1786647361&ei=4L59atP2Nt3B4t4PiuX8iA4&ip=92.113.129.190&id=o-ALN1BEvb7yq2EqQp_zGwFyk7E3QZtqxbFzJufGLqIoMO&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AZFlqhP0pSzJOYIgL9KJAR6JPIpAWzFOkx1cXHr-EmQ6PyqCcQ7Aef_9tWAuYo1GHN9VoHcVRiX_g0vP&spc=KBGBcrdc80M20O7al0DV-PTAen6S-ECt05iLUBFGD0T-nCHohfp36dbOSoJ1f3XiK7A&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=1413.584&lmt=1677554353509563&fexp=51565115,51946838,52089683&c=ANDROID&txp=6219224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgAo12659vZU2nIxa9OgQGZft6wpKEpRCJvObsSr9aKnwCIDQrmOcBXDry8kN2KLZkgL0VI4x6LDnhp-nmbD-NYZ7D&rm=sn-ntqzk76,sn-3pm6k7z&rrc=104,40&req_id=dc8d8e86178ea3ee&cps=158&ipbypass=yes&redirect_counter=2&cms_redirect=yes&cmsv=e&met=1786625839,&mh=Jp&mip=112.204.148.157&mm=34&mn=sn-npoldne7&ms=ltu&mt=1786625329&mv=m&mvi=3&pl=19&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRQIhAPty-uKamfDtGTfyl1UG9Mu6pJGVg3KC7MVs-nFtX6Z6AiBh95_ERtcVAOnkklBV89apQSKb_lN7R4AqL0jOMn37Qg%3D%3D" type="video/mp4">
+</video>
+
+<h2> Audio <h2>
+
+<audio controls="controls">
+<source src="https://rr3---sn-2aqu-hoal6.googlevideo.com/videoplayback?expire=1786663088&ei=UPx9ap_xCYbBsfIPk4386AM&ip=89.249.193.137&id=o-ADVTaZ6jX5T3BcqNQdipOHabCglWxCooojEJubeaJf57&itag=18&source=youtube&requiressl=yes&xpc=EgVo2aDSNQ%3D%3D&rms=au%2Cau&bui=AZFlqhM8KRAwgz4hysFu__KRRnpCAo-CwHi75Q9ruvrK5bpNkSUuaM4bl-nazHtmqSQbHjNhrkZcQJH9&spc=KBGBcuJUdOXY8RPPHKZO6y4Rj5HSuSkgWCje0pcM3-ZnVHnqP6m_RsyOOMIkWHbH21A&vprv=1&svpuc=1&mime=video%2Fmp4&rqh=1&cnr=14&ratebypass=yes&dur=554.004&lmt=1765856219062545&fexp=51565116,52089683&c=ANDROID&txp=5319224&sparams=expire%2Cei%2Cip%2Cid%2Citag%2Csource%2Crequiressl%2Cxpc%2Cbui%2Cspc%2Cvprv%2Csvpuc%2Cmime%2Crqh%2Ccnr%2Cratebypass%2Cdur%2Clmt&sig=AE0s2JYwRAIgIhKL91EfpanA94UoOSID8SS5yXnSqaSnzpDEuZcF1dkCICuve73RCUPtFrObI1VL2QkGz1K_4BJfATDfXhrm4InY&redirect_counter=1&rm=sn-nx5zs7z&rrc=104&req_id=8cfee0ef6ff0a3ee&cms_redirect=yes&cps=223&ipbypass=yes&met=1786641497,&mh=Pn&mip=112.204.148.157&mm=31&mn=sn-2aqu-hoal6&ms=au&mt=1786641212&mv=m&mvi=3&pl=19&lsparams=cps,ipbypass,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms&lsig=APaTxxMwRgIhAPyp0sV-U7IzxvtrhYB7FCJ6QvX5YFKqToD57QzEqbHbAiEAqJA7gsdORxvvlM4xkb6YopotWMYzX5N-1bQ1yOPCVEo%3D" type="audio/mp3">
+</audio>
+
+</div>
+
+</body>
+
+ <body background="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9SRYGgvPajicxemrrRsvMKFGsTYrxMPe2806FYNI4MA&s=10">
+
+</html>
